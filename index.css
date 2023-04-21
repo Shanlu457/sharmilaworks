@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-bg {
+    background-color: #ff9999;
+    min-height: 100vh;
+    min-width: 100vw;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.icon-container {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: 3px solid #281e5d;
+}
+
+.icon-image {
+    font-size: 50px;
+    color: #281e5d;
+    padding-left: 24px;
+    padding-right: 10px;
+    padding-top: 18px;
+    padding-bottom: 10px;
+}
+
+.icon-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #281e5d;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.name-role-address-container {
+    border: 3px solid #281e5d;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.name-role-container {
+    margin-right: 10px;
+}
+
+.name {
+    font-family: "Roboto";
+    font-size: 40px;
+    color: #281e5d;
+    font-weight: bold;
+}
+
+.role {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #281e5d;
+}
+
+.address-container {
+    border: 3px solid #281e5d;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    padding: 10px;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #281e5d;
+}
+
+.work-container {
+    border: 3px solid #281e5d;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.year-para {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #281e5d;
+}
+
+.education {
+    margin-left: 90px;
+}
+
+.bold-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #281e5d;
+    font-weight: bold;
+}
+
+.sub-para {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #281e5d;
+}
+
+.skill-container {
+    border: 3px solid #281e5d;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.skill-para {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #281e5d;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    border-radius: 15px;
+    border: 3px solid #281e5d;
+    background-color: #281e5d;
+}
+
+.skill-dot-container {
+    border-right: 3px solid #281e5d;
+}
+
+.award-year {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #281e5d;
+}
+
+.bold-award-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    color: #281e5d;
+}
+
+.sub-award-para {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #281e5d;
+}
+
+.interest-container {
+    border-bottom: 3px solid #281e5d;
+    padding: 10px;
+}
+
+.interest-icon-container {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    border: 3px solid #281e5d;
+    margin: 10px;
+    background-color: #281e5d;
+}
+
+.interest-icon-image {
+    color: #ff9999;
+    font-size: 34px;
+    padding-left: 18px;
+    padding-right: 12px;
+    padding-top: 15px;
+    padding-bottom: 8px;
+}
+
+.interest-icon-para {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #281e5d;
+    text-align: center;
+}
+
+.education-container {
+    border-bottom: 3px solid #281e5d;
+}
+
+.edu-year {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #281e5d;
+}
+
+.bold-edu-para {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    color: #281e5d;
+}
+
+.sub-edu-para {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #281e5d;
+}
